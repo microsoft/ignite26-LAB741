@@ -13,27 +13,27 @@ Define a clear 12-month AI aspiration and turn one initiative into a focused 90-
 
 ### 🚀 Getting started
 
-The workshop includes separate environment and coach setup pages, followed by one continuous [workshop page](instructions/Exercise01.md) containing **Steps 1-7**. Steps 1-5 form the core workshop; Steps 6-7 are optional extras. Allow about **35 minutes** for the core workshop and **5 minutes each** for the optional steps.
+The workshop includes separate environment and coach setup pages, followed by one continuous [core workshop page](instructions/Exercise01.md) containing **Steps 1-5**. Steps 6-7 are on a separate [optional review and pitch page](instructions/Exercise02.md). Allow about **35 minutes** for the core workshop and **5 minutes each** for the optional steps.
 
-All participants use the provided **AlexW** workshop account and the **AI Impact Coach skill** in Cowork throughout the workshop.
+All participants use the **provided M365 user account** and the **AI Impact Coach skill** in Cowork throughout the workshop.
 
 #### In a guided session
 
 If you're following along during a live session:
 
-1. Complete [Welcome to your lab environment](instructions/Exercise00.md) to sign in to the virtual machine and the provided **AlexW** workshop account.
-2. Follow the [workshop overview and setup](instructions/Exercise01-00.md) to install AI Impact Coach and start a new Cowork task.
+1. Complete [Welcome to your lab environment](instructions/Exercise00.md) to sign in to the virtual machine and the **provided M365 user account**.
+2. Follow the [workshop overview and setup](instructions/Exercise01-00.md) to verify that AI Impact Coach is available and start a new Cowork task.
 3. Open the [workshop steps](instructions/Exercise01.md) and work through **Steps 1-5** in order on that page, keeping the same Cowork task open throughout the workshop. Scroll down the page to move between steps.
-4. Save your plan after Step 5 and review the core-completion check on the same page. Continue to the optional review and executive pitch if time allows.
+4. Save your plan after Step 5 and review the core-completion check on the same page. Continue to the [optional review and pitch](instructions/Exercise02.md) if time allows, keeping the same Cowork task open.
 
 #### On your own
 
 If you're learning at your own pace:
 
-1. Complete [Welcome to your lab environment](instructions/Exercise00.md) to sign in to the virtual machine and the provided **AlexW** workshop account.
-2. Follow the [workshop overview and setup](instructions/Exercise01-00.md) to install AI Impact Coach and start a new Cowork task. Then open the [workshop steps](instructions/Exercise01.md) and work through **Steps 1-5** on that page with the coach.
+1. Complete [Welcome to your lab environment](instructions/Exercise00.md) to sign in to the virtual machine and the **provided M365 user account**.
+2. Follow the [workshop overview and setup](instructions/Exercise01-00.md) to verify that AI Impact Coach is available and start a new Cowork task. Then open the [workshop steps](instructions/Exercise01.md) and work through **Steps 1-5** on that page with the coach.
 3. Use your own business context and confirm Copilot's suggestions rather than treating them as established facts.
-4. Save your plan and review the core-completion check after Step 5 on the same page. Complete **Steps 6-7** only if you want to strengthen it and prepare an executive pitch.
+4. Save your plan and review the core-completion check after Step 5 on the same page. Continue to the [optional review and pitch](instructions/Exercise02.md) for **Steps 6-7** only if you want to strengthen it and prepare an executive pitch. Keep the same Cowork task open.
 
 Use the [attendee instructions](instructions/README.md) to review the workshop sequence and outcomes.
 
@@ -57,6 +57,7 @@ Pick your next step based on your learning style:
 
 | Resource | What you'll get |
 |----------|-----------------|
+| **[Frontier CIE workshop resources](https://aka.ms/Frontier_CIE)** | Run the workshop again later with your Microsoft 365 work account, explore the prompts behind AI Impact Coach, or share the resources with colleagues |
 | **[Ignite 2026 Next Steps](https://aka.ms/ignite26-next-steps)** | Additional session repos and materials from Microsoft Ignite 2026 |
 | **[Microsoft AI Skills Navigator](https://aka.ms/ignite26-asn)** | Discover AI skills, learning paths, and resources for your next step |
 | **[Microsoft Learn](https://aka.ms/ignite26-learn)** | Official documentation and guided learning paths on these topics |

@@ -241,7 +241,7 @@ When triggered for a step, stay on that step. Do not generate the rest of the wo
    - Add a short **30 / 60 / 90 milestone line**, one milestone per window (*set up and baseline → pilot running → measure and decide*).
 3. **Tighten it together.** Under the draft, name the 2–3 lines that most need their input: placeholders they can fill now (owner, pilot scope, baseline or target; a rough number is fine), then your biggest assumption (usually the *because* in the Value Hypothesis). Label rough numbers as estimates; if they don't know one, measuring it becomes a 30-day action. Ask one quick-pick question, *"What should we tighten first?"*, listing those lines plus **"Looks good, save my plan"**; allow several picks. For each pick, propose tighter wording or two options, ask for facts only they know instead of inventing them, and show only the changed lines, then offer the quick pick again with what's left.
 4. **Save the Word document** when they say it looks good or ask for the file, after the second tightening round, or if they move on without answering, whichever comes first. Follow the **Plan Document Specification** below and add a one-line heads-up that they may be asked to approve saving the file. Later changes update the same document.
-5. **Close the move:** Name the file, tell them to **download it before the lab session ends** (lab accounts are temporary), and tell them their core plan is complete. If they have time, they can say **`Review my draft plan`** for the optional executive review.
+5. **Close the move:** Name the file and tell them their core plan is complete. If they have time, they can say **`Review my draft plan`** for the optional executive review.
 
 ---
 
@@ -310,4 +310,4 @@ Create **one** Word document (.docx) per participant and keep updating that same
 
 **Keep it consistent:** when an accepted edit changes a metric, owner, scope, or wording that appears in more than one place (Plan at a glance, aspiration, plan sections), update every place, and add any new placeholder to Open items.
 
-**After every create or update:** name the file in the reply and add one line reminding them to download the latest version before the lab session ends.
+**After every create or update:** name the file in the reply and confirm that it was created or updated.
