@@ -4,54 +4,61 @@ Define a clear **12-month AI aspiration** and turn one initiative into a focused
 
 **Workshop at a glance:** 35 minutes for the five core steps, plus two optional extra steps of about 5 minutes each.
 
-> [!note] All participants use the provided **AlexW** workshop account and the **AI Impact Coach skill** in Cowork throughout this workshop. Install the skill before starting your workshop task.
+All participants use the **provided M365 user account** and the **AI Impact Coach skill** in Cowork throughout this workshop.
 
-## Use AI Impact Coach Skill
+## Use the AI Impact Coach skill
 
 A **skill** is a reusable set of instructions that tells Cowork how to handle a specific task. The **AI Impact Coach** skill provides the workshop structure: it asks focused questions, helps refine your thinking, and builds your plan from the decisions you confirm.
 
-The requests in each step call the coach skill by name instead of repeating its full instructions. Once the coach is active, reply naturally to its questions. You still supply the business context and make the decisions.
+As part of the lab setup process, the **AI Impact Coach** skill should already be available in Cowork. Verify that you can see it before starting your workshop task. Upload it manually only if it is missing.
 
-**Let Cowork guide the conversation.** Upload AI Impact Coach once, start a new task, and use the named request shown in each step. The coach helps develop your answers and carries confirmed decisions forward within your workshop task.
+**Let Cowork guide the conversation.** Verify that AI Impact Coach is available, start a new task, and send the prompt shown in each step. The coach helps develop your answers and carries confirmed decisions forward within your workshop task.
 
-> [!hint] **The more you share, the better your plan.** The coach works best when you share specific business context: rough numbers, names, and the systems you use. Estimates are fine. Treat each draft as a starting point: push back, tweak, and ask follow-up questions until it sounds like you. Aim to reach Step 5 so you leave with your plan.
+> [!hint] **Share useful context, not sensitive details.** Use only information you could share publicly. General business challenges, role descriptions, and publicly available examples are enough. Do not include trade secrets, confidential company or customer information, or personal data. If you use illustrative numbers, label them clearly as examples. Treat each draft as a starting point: push back, tweak, and ask follow-up questions until it sounds like you. Aim to reach Step 5 so you leave with your plan.
 
 ## Step 1 - Before you begin
 
-1. [ ] Open [Microsoft 365 Copilot](https://m365.cloud.microsoft/chat/) and sign in with the provided **AlexW** workshop account.
-1. [ ] With **Microsoft 365 Copilot Chat open**, select the **Cowork** tab below the prompt window.
+1. [ ] You should already be signed in to [Microsoft 365 Copilot](https://m365.cloud.microsoft/chat/) from the previous exercise. If not, open it and sign in with the **provided M365 user account**.
+1. [ ] In **Microsoft 365 Copilot**, select the **Cowork** tab in the left navigation.
 
-   ![Microsoft 365 Copilot with the Cowork task tab.](media/cowork-home.png)
+   ![Microsoft 365 Copilot with the Cowork tab highlighted in the left navigation.](media/select_cowork_2.png)
 
-    > [!note] **Use one Cowork task for the entire workshop.** Install AI Impact Coach before starting a new task.
+1. [ ] Select **Customize** in the left navigation.
 
-### Set up the coach
+   ![Cowork with Customize highlighted in the left navigation.](media/Cowork_Customize.png)
 
-1. [ ] Download [AI Impact Coach (SKILL.md)](downloads/90-day-plan/SKILL.md). On GitHub, open the file and select **Download raw file** to save it as **SKILL.md**. If you have downloaded or cloned this repository, use the included file in `instructions/downloads/90-day-plan/`.
-1. [ ] In the left navigation, select **plugins**.
+1. [ ] On the **Customize** page, look under **Added** and verify that the **AI Impact Coach** skill appears as **ai-impact-coach**.
 
-   ![Microsoft 365 Copilot with the Plugins tab highlighted.](media/plugins-cowork.png)
+   ![Cowork Customize page with the ai-impact-coach skill highlighted under Added.](media/ai_impact_coach_skill.png)
 
-1. [ ] On the plugins page, select the **Cowork** tab.
+1. [ ] If the skill is visible, select **New task** and keep this task open for the entire workshop. Continue with **Build your plan** below. If the skill is missing, follow the manual-upload steps below before starting your task.
 
-   ![Plugins page with the Cowork tab highlighted and the Add menu visible.](media/cowork-skills.png)
-
-1. [ ] Select **Add**, and then select **Upload**.
-
-   ![Cowork Add menu with the Upload option.](media/add-skill-cowork.png)
-
-1. [ ] Drag the downloaded **SKILL.md** file into the upload area, or select **Choose file** to browse to it.
-
-   ![Upload area for the AI Impact Coach skill file.](media/upload-skill.png)
-
-1. [ ] Once the skill is installed, return to **Cowork** and start a **new task** for the workshop. Use the request in each workshop step, including the skill name, to work with the coach.
-
-    > [!note] **A new task is required after installation.** Tasks that were already running will not load the newly installed skill. Use the new task for the rest of the workshop. If you already completed any steps, copy your earlier decisions into it.
+> [+Note] **Skill missing? Expand for manual upload steps.**
+>
+> Follow these steps only if **ai-impact-coach** is not listed on the **Customize** page.
+>
+> 1. [ ] While on the **Customize** page, select **Add**, then select **Upload**.
+>
+>     ![Cowork Customize page with Add and Upload highlighted.](media/add_upload.png)
+>
+> 1. [ ] In the **Upload a skill or plugin** prompt, select **choose a file**.
+>
+>     ![Upload a skill or plugin prompt with choose a file highlighted.](media/choose_a_file.png)
+>
+> 1. [ ] In the window that opens, select **Downloads**, then select **SKILL** (**SKILL.md** if file extensions are visible).
+>
+>     ![File selection window with Downloads and the SKILL file highlighted.](media/downloads_folder.png)
+>
+> 1. [ ] With the skill file selected, select **Open** to upload it.
+>
+>     ![File selection window with the Open button highlighted.](media/open_file.png)
+>
+> 1. [ ] Verify that **ai-impact-coach** appears under **Added** on the **Customize** page. Then select **New task** to start your workshop task.
+>
+>     **A new task is required after installation.** Tasks that were already running will not load the newly installed skill. Use the new task for the rest of the workshop. If you already completed any steps, copy your earlier decisions into it.
 
 ## Build your plan
 
-Complete Steps 1-5 to clarify your problem, define your aspiration, choose an initiative, and save your plan. After Step 5, you can stop or continue to the optional review and executive pitch.
+Complete Steps 1-5 to clarify your problem, define your aspiration, choose an initiative, and save your plan. After Step 5, you can stop or continue to the separate [optional review and pitch](Exercise02.md) exercise.
 
-> [!note] **Check:** The AI Impact Coach skill is installed and you have a new Cowork task window open.
-
-Select **Next** to open the workshop steps. Complete Steps 1-5, then continue to the optional Steps 6-7 if time allows.
+Select **Next** to open the core workshop steps.

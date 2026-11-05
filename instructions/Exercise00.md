@@ -1,12 +1,12 @@
 # Welcome to your lab environment
 
-Before you build your 90-day AI plan, sign in to the virtual machine and the provided **AlexW** workshop account.
+Before you build your 90-day AI plan, sign in to the virtual machine and the **provided M365 user account**.
 
-Use the workshop account to access Microsoft 365 Copilot and Cowork. Build your plan around a real problem affecting your business unit, function, or organization, using business context you can confirm.
+Use this account to access Microsoft 365 Copilot and Cowork. Build your plan around a real problem affecting your business unit, function, or organization, using business context you can confirm.
 
 At the end of the workshop, we will share a link to these instructions so you can revisit the workshop and review your plan.
 
-> [!note] All participants use the provided **AlexW** workshop account, whether following a guided session or working at their own pace. Complete the sign-in steps below before selecting **Next**.
+> [!note] All participants use the **provided M365 user account**, whether following a guided session or working at their own pace. Complete the sign-in steps below before selecting **Next**.
 
 ## Step 1: Sign in to the virtual machine
 
@@ -21,7 +21,7 @@ At the end of the workshop, we will share a link to these instructions so you ca
 1. [ ] Once on the desktop, open Microsoft Edge.
 1. [ ] Navigate to Microsoft 365 Copilot: +++https://m365.cloud.microsoft/chat+++
 
-## Step 3: Sign into the workshop account
+## Step 3: Sign into the provided M365 user account
 
 1. [ ] When prompted, sign in with the following user details:
 
@@ -32,4 +32,4 @@ At the end of the workshop, we will share a link to these instructions so you ca
     >
     > **Password:** +++@lab.CloudCredential(WWLM365E7).UserPassword+++
 
-When you are signed in, select **Next** to install AI Impact Coach and set up Cowork.
+When you are signed in, select **Next** to verify AI Impact Coach is available and set up Cowork.
