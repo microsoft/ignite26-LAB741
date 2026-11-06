@@ -1,6 +1,8 @@
 # Build your 90-day AI plan: workshop steps
 
-Complete **Steps 1-5** for the core workshop in about **35 minutes**. Steps 6-7 are on a separate [optional review and pitch page](Exercise02.md), with about **5 minutes each**.
+Define a clear **12-month AI aspiration** and turn one initiative into a focused **90-day plan**.
+
+Complete **Steps 1-5** for the core workshop in about **35 minutes**. Steps 6-7 are on a separate [optional review and pitch page](Exercise03.md), with about **5 minutes each**.
 
 Before you begin, complete the overview and setup to verify that **AI Impact Coach** is available and open a new Cowork task using the **provided M365 user account**.
 
