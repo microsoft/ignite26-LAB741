@@ -1,13 +1,5 @@
 # Welcome to your lab environment
 
-Before you build your 90-day AI plan, sign in to the virtual machine and the **provided M365 user account**.
-
-Use this account to access Microsoft 365 Copilot and Cowork. Build your plan around a real problem affecting your business unit, function, or organization, using business context you can confirm.
-
-At the end of the workshop, we will share a link to these instructions so you can revisit the workshop and review your plan.
-
-> [!note] All participants use the **provided M365 user account**, whether following a guided session or working at their own pace. Complete the sign-in steps below before selecting **Next**.
-
 ## Step 1: Sign in to the virtual machine
 
 1. [ ] Start by signing in to the virtual machine using the password below:
