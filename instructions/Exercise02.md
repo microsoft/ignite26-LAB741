@@ -141,10 +141,6 @@ Keep the pilot small. Your plan should identify one primary KPI, an accountable 
 
 ### Optional reference: Plan template and completed example
 
-![AI 90-day plan template.](media/lighthouse-template.png)
-
-Use the example for structure, not as your answer. Your plan should reflect your own priorities, constraints, and business context.
-
 ![Sample AI 90-day plan.](media/lighthouse-sample.png)
 
 ---
@@ -155,4 +151,4 @@ Use the example for structure, not as your answer. Your plan should reflect your
 
 To run this workshop again later with your **own Microsoft 365 work account**, or explore the prompts behind the **AI Impact Coach skill**, visit [aka.ms/Frontier_CIE](https://aka.ms/Frontier_CIE). You can also share the link with colleagues.
 
-If you have time, select **Next** to continue to the optional review and pitch steps
+If you have time, select **Next** to continue to the optional review and pitch steps.

@@ -33,7 +33,7 @@ As part of the lab setup process, the **AI Impact Coach** skill should already b
 
    ![Cowork Customize page with the ai-impact-coach skill highlighted under Added.](media/ai_impact_coach_skill.png)
 
-1. [ ] If the skill is visible, select **New task** and keep this task open for the entire workshop. Continue with **Build your plan** below. If the skill is missing, follow the manual-upload steps below before starting your task.
+1. [ ] If the skill is visible, select **New task** and keep this task open for the entire workshop. If the skill is missing, follow the manual-upload steps below before starting your task.
 
     ![Cowork with the New task button highlighted in the left navigation.](media/new_task.png)
 

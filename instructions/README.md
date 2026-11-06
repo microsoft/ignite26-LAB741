@@ -6,16 +6,16 @@ Define a clear **12-month AI aspiration** and turn one initiative into a focused
 
 All participants start with [Welcome to your lab environment](Exercise00.md) to sign in with the **provided M365 user account**.
 
-Continue with the [workshop overview and setup](Exercise01-00.md) to verify that the **AI Impact Coach skill** is available and start a new Cowork task. Then open the [core workshop steps](Exercise01.md) and use the coach throughout. Steps 1-5 are together on one continuous Markdown page. In Skillable, select **Next** from setup to open that page, then scroll through the core workshop in order.
+Continue with the [workshop overview and setup](Exercise01.md) to verify that the **AI Impact Coach skill** is available and start a new Cowork task. Then open the [core workshop steps](Exercise02.md) and use the coach throughout. Steps 1-5 are together on one continuous Markdown page. In Skillable, select **Next** from setup to open that page, then scroll through the core workshop in order.
 
-Allow about **35 minutes** for Steps 1-5. The separate [optional review and pitch](Exercise02.md) exercise contains Steps 6-7, with about **5 minutes each**.
+Allow about **35 minutes** for Steps 1-5. The separate [optional review and pitch](Exercise03.md) exercise contains Steps 6-7, with about **5 minutes each**.
 
 After Step 5, review the core-completion check on the same page. You can stop there; if you continue to the optional exercise, keep the same Cowork task open.
 
 | Page or section | Time | Finish with |
 | --- | --- | --- |
 | [Welcome to your lab environment](Exercise00.md) | Required setup | Signed in to the virtual machine and the provided M365 user account. |
-| [Workshop overview and setup](Exercise01-00.md) | Before you begin | AI Impact Coach available and a new Cowork task. |
+| [Workshop overview and setup](Exercise01.md) | Before you begin | AI Impact Coach available and a new Cowork task. |
 | Step 1: Name the problem | 5 minutes | A confirmed business problem statement. |
 | Step 2: Define your 12-month AI aspiration | 5 minutes | A one-sentence aspiration and one primary success metric. |
 | Step 3: Identify your AI initiatives | 5 minutes | One existing initiative and one new opportunity. |

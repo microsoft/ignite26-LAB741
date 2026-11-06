@@ -13,7 +13,7 @@
 1. [ ] Once on the desktop, open Microsoft Edge.
 1. [ ] Navigate to Microsoft 365 Copilot: +++https://m365.cloud.microsoft/chat+++
 
-## Step 3: Sign into the provided M365 user account
+## Step 3: Sign in to the provided M365 user account
 
 1. [ ] When prompted, sign in with the following user details:
 
@@ -22,6 +22,6 @@
 
     > [!Help] If the sign-in page asks for a password, use:
     >
-    > **Password:** +++ @lab.CloudCredential(WWLM365E7).AdministrativePassword+++
+    > **Password:** +++@lab.CloudCredential(WWLM365E7).AdministrativePassword+++
 
 When you are signed in, select **Next** to verify AI Impact Coach is available and set up Cowork.
