@@ -25,11 +25,11 @@ At the end of the workshop, we will share a link to these instructions so you ca
 
 1. [ ] When prompted, sign in with the following user details:
 
-   - **Username:** +++AlexW@@lab.CloudCredential(WWLM365E7).TenantName+++
+   - **Username:** +++@lab.CloudCredential(WWLM365E7).AdministrativeUsername+++
    - **Temporary access pass:** +++@lab.Variable(TAP)+++
 
     > [!Help] If the sign-in page asks for a password, use:
     >
-    > **Password:** +++@lab.CloudCredential(WWLM365E7).UserPassword+++
+    > **Password:** +++ @lab.CloudCredential(WWLM365E7).AdministrativePassword+++
 
 When you are signed in, select **Next** to verify AI Impact Coach is available and set up Cowork.
