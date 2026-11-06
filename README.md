@@ -28,14 +28,7 @@ If you're following along during a live session:
 
 #### On your own
 
-If you're learning at your own pace:
-
-1. Complete [Welcome to your lab environment](instructions/Exercise00.md) to sign in to the virtual machine and the **provided M365 user account**.
-2. Follow the [workshop overview and setup](instructions/Exercise01.md) to verify that AI Impact Coach is available and start a new Cowork task. Then open the [workshop steps](instructions/Exercise02.md) and work through **Steps 1-5** on that page with the coach.
-3. Use your own business context and confirm Copilot's suggestions rather than treating them as established facts.
-4. Save your plan and review the core-completion check after Step 5 on the same page. Continue to the [optional review and pitch](instructions/Exercise03.md) for **Steps 6-7** only if you want to strengthen it and prepare an executive pitch. Keep the same Cowork task open.
-
-Use the [attendee instructions](instructions/README.md) to review the workshop sequence and outcomes.
+If you're learning at your own pace, start  the self-paced workshop at [aka.ms/Frontier_CIE](https://aka.ms/Frontier_CIE).
 
 ### 🎯 Learning outcomes
 
