@@ -1,11 +1,5 @@
 # Build your 90-day AI plan
 
-Define a clear **12-month AI aspiration** and turn one initiative into a focused **90-day plan**.
-
-**Workshop at a glance:** 35 minutes for the five core steps, plus two optional extra steps of about 5 minutes each.
-
-All participants use the **provided M365 user account** and the **AI Impact Coach skill** in Cowork throughout this workshop.
-
 ## Use the AI Impact Coach skill
 
 A **skill** is a reusable set of instructions that tells Cowork how to handle a specific task. The **AI Impact Coach** skill provides the workshop structure: it asks focused questions, helps refine your thinking, and builds your plan from the decisions you confirm.
@@ -41,6 +35,8 @@ As part of the lab setup process, the **AI Impact Coach** skill should already b
 
 1. [ ] If the skill is visible, select **New task** and keep this task open for the entire workshop. Continue with **Build your plan** below. If the skill is missing, follow the manual-upload steps below before starting your task.
 
+    ![Cowork with the New task button highlighted in the left navigation.](media/new_task.png)
+
 > [+Note] **Skill missing? Expand for manual upload steps.**
 >
 > Follow these steps only if **ai-impact-coach** is not listed on the **Customize** page.
@@ -65,8 +61,4 @@ As part of the lab setup process, the **AI Impact Coach** skill should already b
 >
 >     **A new task is required after installation.** Tasks that were already running will not load the newly installed skill. Use the new task for the rest of the workshop. If you already completed any steps, copy your earlier decisions into it.
 
-## Build your plan
-
-Complete Steps 1-5 to clarify your problem, define your aspiration, choose an initiative, and save your plan. After Step 5, you can stop or continue to the separate [optional review and pitch](Exercise02.md) exercise.
-
-Select **Next** to open the core workshop steps.
+Select **Next** to open the [workshop steps](Exercise02.md).
