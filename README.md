@@ -9,7 +9,7 @@
 ## 🔥LAB741: From AI ambition to business advantage
 ### Session description
 
-Define a clear 12-month AI aspiration and turn one initiative into a focused 90-day plan using the AI Impact Coach skill in Microsoft 365 Copilot. Start with a business problem, choose a measurable outcome, and leave with a saved plan that identifies a pilot, an accountable owner, and 30/60/90 milestones.
+Define a clear 12-month AI aspiration and turn one initiative into a focused 90-day plan using the AI Impact Coach skill in Copilot Cowork. Start with a business problem, choose a measurable outcome, and leave with a saved plan that identifies a pilot, an accountable owner, and 30/60/90 milestones.
 
 ### 🚀 Getting started
 
