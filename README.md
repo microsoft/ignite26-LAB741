@@ -13,10 +13,6 @@ Define a clear 12-month AI aspiration and turn one initiative into a focused 90-
 
 ### 🚀 Getting started
 
-The workshop includes separate environment and coach setup pages, followed by one continuous [core workshop page](instructions/Exercise02.md) containing **Steps 1-5**. Steps 6-7 are on a separate [optional review and pitch page](instructions/Exercise03.md). Allow about **35 minutes** for the core workshop and **5 minutes each** for the optional steps.
-
-All participants use the **provided M365 user account** and the **AI Impact Coach skill** in Cowork throughout the workshop.
-
 #### In a guided session
 
 If you're following along during a live session:
