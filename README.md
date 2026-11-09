@@ -40,9 +40,9 @@ By the end of this session, you will be able to:
 
 ### 💻 Technologies used
 
-- Microsoft 365 Copilot
-- Cowork with the AI Impact Coach skill
-- Microsoft Word
+- [Microsoft Copilot](https://learn.microsoft.com/en-us/copilot/plan/copilot-overview)
+- [Microsoft Copilot Cowork](https://learn.microsoft.com/en-us/copilot/cowork/) 
+
 
 ### 📚 Continue your learning
 
