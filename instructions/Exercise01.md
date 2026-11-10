@@ -21,6 +21,10 @@ As part of the lab setup process, the **AI Impact Coach** skill should already b
     >
     > **Password:** +++@lab.CloudCredential(WWLM365E7).AdministrativePassword+++
 
+    > [!note] The sidebar may collapse during the workshop. Select **Expand sidebar** in the upper-left corner whenever you need to show the navigation again.
+    >
+    >![Microsoft 365 Copilot with the Expand sidebar button highlighted in the upper-left corner.](media/expand-sidebar.png)
+
 1. [ ] In **Microsoft 365 Copilot**, select the **Cowork** tab in the left navigation.
 
    ![Microsoft 365 Copilot with the Cowork tab highlighted in the left navigation.](media/select_cowork_2.png)
