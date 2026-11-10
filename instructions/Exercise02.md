@@ -143,6 +143,21 @@ Keep the pilot small. Your plan should identify one primary KPI, an accountable 
 
 ![Sample AI 90-day plan.](media/lighthouse-sample.png)
 
+### Optional: Share a copy of your plan
+
+1. [ ] Open your 90-day plan in Word.
+1. [ ] Select the shield icon next to the document title to open the sensitivity label settings. Make sure **General** is selected.
+
+    ![Word sensitivity label menu with the shield icon and General label highlighted.](media/word-sensitivity-general.png)
+
+1. [ ] In the upper-right corner, open the **Share** menu, then select **Share**.
+
+    ![Word Share menu with the Share option highlighted.](media/word-share-menu.png)
+
+1. [ ] In the **Add a name, group, or email** field, enter your own email address. Select **Send** to email yourself a link to the document.
+
+    ![Word sharing dialog with the recipient email address and Send button highlighted.](media/word-share-email.png)
+
 ---
 
 ## Your core workshop is complete
