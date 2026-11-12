@@ -146,9 +146,9 @@ Keep the pilot small. Your plan should identify one primary KPI, an accountable 
 ### Optional: Share a copy of your plan
 
 1. [ ] Open your 90-day plan in Word.
-1. [ ] Select the shield icon next to the document title to open the sensitivity label settings. Make sure **General** is selected.
+1. [ ] Select the shield icon next to the document title to open the sensitivity label settings. Make sure **Public** is selected.
 
-    ![Word sensitivity label menu with the shield icon and General label highlighted.](media/word-sensitivity-general.png)
+    ![Word sensitivity label menu with the shield icon and Public label highlighted.](media/word-sensitivity-public.png)
 
 1. [ ] In the upper-right corner, open the **Share** menu, then select **Share**.
 
