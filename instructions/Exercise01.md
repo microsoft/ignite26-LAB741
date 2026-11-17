@@ -19,7 +19,7 @@ As part of the lab setup process, the **AI Impact Coach** skill should already b
 
     > [!Help] If the sign-in page asks for a password, use:
     >
-    > **Password:** +++@lab.CloudCredential(WWLM365E7).AdministrativePassword+++
+    > **Password:** +++@lab.CloudCredential(WWLM365E7).UserPassword+++
 
     > [!note] The sidebar may collapse during the workshop. Select **Expand sidebar** in the upper-left corner whenever you need to show the navigation again.
     >
