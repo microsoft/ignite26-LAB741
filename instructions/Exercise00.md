@@ -22,6 +22,6 @@
 
     > [!Help] If the sign-in page asks for a password, use:
     >
-    > **Password:** +++@lab.CloudCredential(WWLM365E7).AdministrativePassword+++
+    > **Password:** +++@lab.CloudCredential(WWLM365E7).UserPassword+++
 
 When you are signed in, select **Next** to verify AI Impact Coach is available and set up Cowork.
