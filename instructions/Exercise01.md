@@ -39,7 +39,7 @@ As part of the lab setup process, the **AI Impact Coach** skill should already b
 
 1. [ ] If the skill is visible, select **New** in the left navigation to start a new task. Keep this task open for the entire workshop. If the skill is missing, follow the manual-upload steps below before starting your task.
 
-    ![Cowork with the New button highlighted in the left navigation.](media/new_task.png)
+    ![Cowork with the New button highlighted in the left navigation.](media/new_task_2.png)
 
 > [+Note] **Skill missing? Expand for manual upload steps.**
 >
