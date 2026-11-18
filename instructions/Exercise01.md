@@ -27,19 +27,19 @@ As part of the lab setup process, the **AI Impact Coach** skill should already b
 
 1. [ ] In **Microsoft 365 Copilot**, select **Home** in the left navigation, then select **Cowork** at the bottom of the **Start a task** box.
 
-   ![Microsoft 365 Copilot with the Cowork tab highlighted in the left navigation.](media/select_cowork_3.png)
+   ![Microsoft 365 Copilot with Cowork highlighted in the Start a task box.](media/select_cowork_3.png)
 
 1. [ ] Select **Plugins** in the left navigation.
 
-   ![Cowork with Customize highlighted in the left navigation.](media/Cowork_Customize_2.png)
+   ![Cowork with Plugins highlighted in the left navigation.](media/Cowork_Customize_2.png)
 
 1. [ ] On the **Plugins** page, look under **Added** and verify that the **AI Impact Coach** skill appears as **ai-impact-coach**.
 
-   ![Cowork Customize page with the ai-impact-coach skill highlighted under Added.](media/ai_impact_coach_skill_2.png)
+   ![Cowork Plugins page with the ai-impact-coach skill highlighted under Added.](media/ai_impact_coach_skill_2.png)
 
-1. [ ] If the skill is visible, select **New task** and keep this task open for the entire workshop. If the skill is missing, follow the manual-upload steps below before starting your task.
+1. [ ] If the skill is visible, select **New** in the left navigation to start a new task. Keep this task open for the entire workshop. If the skill is missing, follow the manual-upload steps below before starting your task.
 
-    ![Cowork with the New task button highlighted in the left navigation.](media/new_task.png)
+    ![Cowork with the New button highlighted in the left navigation.](media/new_task.png)
 
 > [+Note] **Skill missing? Expand for manual upload steps.**
 >
